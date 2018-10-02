@@ -1,1 +1,1 @@
-# new-repository
+# image-mapping
